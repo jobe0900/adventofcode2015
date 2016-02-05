@@ -1,0 +1,10 @@
+1. Least cost for winning: 78
+    items:
+         [Item(name='Damage +1', cost=25, damage=1, armor=0)]
+         Item(name='Longsword', cost=40, damage=7, armor=0)
+         Item(name='Leather', cost=13, damage=0, armor=1)
+2. Highest cost for losing: 148
+    items:
+         [Item(name='Damage +3', cost=100, damage=3, armor=0), Item(name='Defense +2', cost=40, damage=0, armor=2)]
+         Item(name='Dagger', cost=8, damage=4, armor=0)
+         None
